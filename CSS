@@ -1,0 +1,25 @@
+header
+{
+	font-family: great vibes;
+	color: black;
+	font-size: 2em;
+	text-align: center;
+}
+
+
+fieldset
+{
+text-align: center;
+font-weight: bold;
+background-color: #dbd283;
+}
+
+
+
+input[type=submit]
+{
+width:100px;
+ margin-left:5px;
+box-shadow: 1px 1px 1px red;
+cursor: pointer;
+}
